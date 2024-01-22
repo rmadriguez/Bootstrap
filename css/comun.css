@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.botonNaranja {
+    background-color: rgb(252, 91, 33)!important;
+    color: white!important;
+}
+
+body::-webkit-scrollbar{
+    width: 0.75rem;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(252, 91, 33);
+    border-radius: 10px;
+}
