@@ -72,3 +72,15 @@
     background-size: 100%;
     background-position:center;
   }
+
+  .piper {
+    background-image: url(../img/aron.jpeg);
+    background-size: 175%;
+    background-position: right;
+  }
+
+  .fabian {
+    background-image: url(../img/fabian.jpg);
+    background-size: 100%;
+    background-position: right;
+  }
