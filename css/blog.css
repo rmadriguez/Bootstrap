@@ -1,4 +1,3 @@
-
 .blog-header {
     border-bottom: 1px solid #e5e5e5;
   }
@@ -71,6 +70,7 @@
     background-image: url(../img/poke.jpg);
     background-size: 100%;
     background-position:center;
+    margin-top: 20%;
   }
 
   .piper {
